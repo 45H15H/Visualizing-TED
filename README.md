@@ -29,7 +29,7 @@ It will click the button and give the modified page to beautifulsoup for scrapin
 
 
 ## Screenshots
-![Example screenshot](./output.png)
+![Example screenshot](images/output.png)
 
 ## Setup
 Requirents for this project are the libraries listed above.  
