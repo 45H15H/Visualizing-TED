@@ -19,7 +19,7 @@ options = webdriver.EdgeOptions()
 options.add_argument('--incognito')
 options.add_argument('--headless')
 
-driver = webdriver.Edge('msedgedriver.exe', options=options)
+driver = webdriver.Edge('./msedgedriver.exe', options=options)
 
 def make_transcript_file():
     driver.get("https://www.ted.com/talks/shannon_odell_what_s_the_smartest_age")
