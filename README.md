@@ -1,4 +1,4 @@
-# Scraping TED Talks' transcript
+# Visualizing TED Talks
 Scraping the transcript of TED Talks from [www.ted.com/talks](https://www.ted.com/talks/julia_dhar_how_to_have_constructive_conversations/transcript?trk=public_post-text) and visualizing it.
 
 ## Table of Contents
@@ -43,4 +43,4 @@ To install these libraries to your local environment run the following installat
 - `pip3 install matplotlib`
 
 ## Project Status
-Project is: _in progress_  
+Project is: _complete_  
