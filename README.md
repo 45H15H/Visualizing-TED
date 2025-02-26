@@ -1,4 +1,4 @@
-# Visualizing TED Talks
+# TEDVisuals
 Scraping the transcript of TED Talks from [www.ted.com/talks](https://www.ted.com/talks/julia_dhar_how_to_have_constructive_conversations/transcript?trk=public_post-text) and visualizing it.
 
 ## Table of Contents
